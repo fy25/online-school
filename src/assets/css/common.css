@@ -1,0 +1,44 @@
+.main-color{
+    color: #4AC9C0;
+}
+.main-backgroundColor{
+    background-color: #4AC9C0;
+}
+.important-color{
+    color:#FF6633
+}
+.gray-color{
+    color: #999999;
+}
+.fs24{
+    font-size: 0.24rem;
+}
+.fs26{
+    font-size: 0.26rem;
+}
+.fs28{
+    font-size: 0.28rem;
+}
+.fs32{
+    font-size: .32rem;
+}
+.bf{
+    background: #fff;
+}
+.weui-tabbar {
+    display: flex;
+    position: fixed!important;
+    z-index: 500;
+    bottom: 0;
+    width: 100%;
+    background-color: #F7F7FA;
+  }
+  .weui-tabbar:before {
+    content: " ";
+    position: fixed!important;
+}
+.inner{
+    width: 100%;
+    padding: 0 .4rem;
+    box-sizing: border-box;
+}
